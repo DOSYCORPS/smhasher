@@ -1,3 +1,0 @@
-while read line; do
-  unbuffer ./SMHasher --test=$line beamsplitter > $line.t_$1.results.txt 2>&1 &
-done < names.txt
