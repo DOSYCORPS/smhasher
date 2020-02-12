@@ -1,6 +1,3 @@
-// Copyright 2020 Cris Stringfellow
-// Licensed under GPL-3.0
-// https://github.com/cris691/beamsplitter
 #include <cstdio>
 #include <inttypes.h>
 #include "beamsplitter.h"
